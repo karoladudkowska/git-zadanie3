@@ -1,15 +1,13 @@
 
 
-p
-{
+p {
 width: 100px;
 height: 100px;
 background-color: red;
 }
-.blue{
+.blue {
     background-color: blue;
 }
-.opacity
-{
-    opacity:0.5;
+.opacity {
+    opacity: 0.5;
 }
